@@ -18,6 +18,10 @@ More documentation and repo cleanup will be done after 37C3.
 ## KiCAD render of the backside
 ![image](assets/b5.png)
 
+Caution: the render has the LED direction marked incorrectly. if your LEDs are marked by a triangle - you have to do it the other way. I'll update the documentation after the congress - thanks, random person, for noticing this, so much!!!!!
+
+![image](assets/b6.jpg)
+
 ## THE PILK IS HERE
 ![image](assets/b2.jpeg)
 
