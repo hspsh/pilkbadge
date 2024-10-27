@@ -27,5 +27,17 @@ On 1st revision board, there's also an option for using a LiPo charger PCB inste
 <img src="assets/b4.jpeg" width="40%"/> <img src="assets/b3.jpeg" width="40%"/>
 
 ## Credits
-* Random person from CCC, whose name I will never know, but they noticed an error in previos readme. They also liked being called random person, I think. You can always open an issue, random person, to become a non-random one. Thanks!
+* Random person from CCC, whose name I will never know, but they noticed an error in previous readme. They also liked being called random person, I think. You can always open an issue, random person, to become a non-random one. Thanks!
 * Another random person who suggested that Neko Arc could also hold other items than pilk ingridients - we might add this feature in future revisions.
+* Non-random @andigandi for design tips and motivating us to deal with licensing the project.
+
+## Licensing Information
+The hardware design files, including schematics and PCB layout (excluding silkscreen artwork and outline design), are licensed under the CERN Open Hardware Licence v2 [CERN-OHL-W](https://ohwr.org/project/cernohl/-/wikis/uploads/f773df342791cc55b35ac4f907c78602/cern_ohl_w_v2.pdf).
+
+Artwork and outline design © 2023 by [Ewa Kielska](https://www.behance.net/dziaberlia55f5) are licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+All documentation is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+In summary, you are free to use schematic and general concept of this project according to `CERN-OHL-W` license. If you want to include the artwork, you must adhere to `CC BY-NC-ND 4.0` too.
+
+We are open to either adjust these licensing terms, or providing the design files with alternative licensing terms in special cases. Feel free to open issue then.
